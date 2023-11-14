@@ -1,4 +1,4 @@
-<h1>Hi, I'm Taiwo! <br/><a href="https://github.com/joshmadakor1">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">DevOps Engineer</a></h1>
+<h1>Hi, I'm Taiwo! <br/><a href="https://github.com/">Cloud Engineer</a>, <a href="https://www.linledin">Cybersecurity Professional</a>, <a href="https://www.youtube.com/">DevOps Engineer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
